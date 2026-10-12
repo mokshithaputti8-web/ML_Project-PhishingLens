@@ -12,15 +12,10 @@ __pycache__/
 
 *.log
 
-data/external/
 data/raw/
-data/processed/
 
-models/*.joblib
 models/*.pkl
 models/*.pickle
 
 .DS_Store
 Thumbs.db
-.agents/
-.claude/
